@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "mudule",
   "scripts": {
-    "start": "nodemone index.js"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
